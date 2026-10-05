@@ -1,0 +1,7 @@
+{
+  "name": "Producer Life Simulator",
+  "description": "Build your music empire, master professional production skills, and rise from a bedroom producer to a legendary studio mogul.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
